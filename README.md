@@ -7,8 +7,8 @@ Esta aplicación devuelve una frase aleatoria cada vez que es ejecutada.
 
 _¿Qué necesitas?_
 ```
-- Un editor de texto. En mi caso fue Visual Studio Code.
-- En caso de utilizar VS Code, la extensión de JavaScript.
+- Visual Studio Code.
+- En caso de utilizar VS Code, el plugin de JavaScript.
 ```
 ### Instalación 📋
 
